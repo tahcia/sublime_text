@@ -1,0 +1,28 @@
+[
+    { "caption": "-", "id": "tahcia_separator" },
+    {
+        "caption": "Tahcia Script Sync",
+        "children": [
+            {
+                "caption": "Use Tahcia Here (Init Config)",
+                "command": "tahcia_script_init"
+            },
+            {
+                "caption": "Download Script",
+                "command": "tahcia_script_download"
+            },
+            {
+                "caption": "Upload Script",
+                "command": "tahcia_script_upload"
+            },
+            {
+                "caption": "Browse Remote Scripts...",
+                "command": "tahcia_script_browse"
+            },
+            {
+                "caption": "Delete Remote Script",
+                "command": "tahcia_script_delete"
+            }
+        ]
+    }
+]

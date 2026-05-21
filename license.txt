@@ -1,0 +1,39 @@
+TAHCIA REMOTE SUBLIME TEXT PACKAGE - END USER LICENSE AGREEMENT (EULA)
+----------------------------------------------------------------------
+Copyright (c) 2026 Tahcia Script Engine. All rights reserved.
+
+NOTICE TO USER: PLEASE READ THIS CONTRACT CAREFULLY. BY DOWNLOADING, 
+INSTALLING, OR USING THIS SOFTWARE, YOU ACCEPT ALL THE TERMS AND 
+CONDITIONS OF THIS AGREEMENT. 
+
+1. PROPRIETARY RIGHTS & RESTRICTIONS
+This software, including its source code, configuration schemes, and UI 
+assets, is the exclusive intellectual property of the author/Tahcia. 
+You are granted a non-exclusive, non-transferable license to use this 
+software solely for personal or authorized business development actions 
+connected directly to api.tahcia.com.
+
+2. PROHIBITION AGAINST MODIFICATION, DERIVATIVES & REVERSE ENGINEERING
+- YOU SHALL NOT MODIFY, DECOMPILE, DISASSEMBLE, DECRYPT, REVERSE ENGINEER, 
+  OR ATTEMPT TO EXTRACT THE SOURCE CODE OF THIS PACKAGE.
+- YOU SHALL NOT ALTER, REMOVE, OR OBSCURE ANY PROPRIETARY NOTICES, LABELS, 
+  OR LICENSING FOOTERS (INCLUDING THIS LICENSE.TXT FILE).
+- YOU SHALL NOT CREATE DERIVATIVE WORKS BASED UPON THIS SOFTWARE, OR BUNDLE 
+  IT AS PART OF ANOTHER TOOLCHAIN WITHOUT EXPLICIT WRITTEN CONSENT.
+
+3. REDISTRIBUTION RESTRICTIONS
+You are strictly prohibited from redistributing, selling, renting, leasing, 
+sublicensing, or publicly hosting clones or forks of this package on any 
+public repository (e.g., GitHub, GitLab) or package control index 
+without authorization.
+
+4. NO WARRANTY
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER 
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+5. TERMINATION
+This license terminates automatically if you violate any terms of this 
+agreement. Upon termination, you must cease all use of the software and 
+destroy all copies in your possession.
+----------------------------------------------------------------------

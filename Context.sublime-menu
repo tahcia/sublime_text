@@ -5,23 +5,23 @@
         "children": [
             {
                 "caption": "Use Tahcia Here (Init Config)",
-                "command": "tahcia_script_init"
+                "command": "tahcia_script_init", "args": { "paths": [] }
             },
             {
                 "caption": "Download Script",
-                "command": "tahcia_script_download"
+                "command": "tahcia_script_download", "args": { "paths": [] }
             },
             {
                 "caption": "Upload Script",
-                "command": "tahcia_script_upload"
+                "command": "tahcia_script_upload", "args": { "paths": [] }
             },
             {
                 "caption": "Browse Remote Scripts...",
-                "command": "tahcia_script_browse"
+                "command": "tahcia_script_browse", "args": { "paths": [] }
             },
             {
                 "caption": "Delete Remote Script",
-                "command": "tahcia_script_delete"
+                "command": "tahcia_script_delete", "args": { "paths": [] }
             }
         ]
     }

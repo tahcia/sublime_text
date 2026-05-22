@@ -4,19 +4,19 @@
         "command": "tahcia_script_init"
     },
     {
-        "caption": "Tahcia Script: Browse Scripts",
+        "caption": "Tahcia Script Sync: Browse Scripts",
         "command": "tahcia_script_browse"
     },
     {
-        "caption": "Tahcia Script: Upload Script",
+        "caption": "Tahcia Script Sync: Upload Script",
         "command": "tahcia_script_upload"
     },
     {
-        "caption": "Tahcia Script: Download Script",
+        "caption": "Tahcia Script Sync: Download Script",
         "command": "tahcia_script_download"
     },
     {
-        "caption": "Tahcia: Delete Remote Script",
+        "caption": "Tahcia Script Sync: Delete Remote Script",
         "command": "tahcia_script_delete"
     }
 

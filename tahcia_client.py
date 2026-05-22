@@ -2,7 +2,6 @@ import urllib.request
 import urllib.parse
 import json
 
-# python3 -m py_compile Tahcia.py tahcia_client.py
 
 class TahciaClient:
     def __init__(self, api_key):

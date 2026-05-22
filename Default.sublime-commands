@@ -1,8 +1,8 @@
 [
-            {
-                "caption": "Use Tahcia Here (Init Config)",
-                "command": "tahcia_script_init"
-            },
+    {
+        "caption": "Use Tahcia Here (Init Config)",
+        "command": "tahcia_script_init"
+    },
     {
         "caption": "Tahcia Script: Browse Scripts",
         "command": "tahcia_script_browse"

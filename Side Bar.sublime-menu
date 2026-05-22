@@ -17,7 +17,7 @@
             },
             {
                 "caption": "Browse Remote Scripts...",
-                "command": "tahcia_script_browse"
+                "command": "tahcia_script_browse", "args": { "paths": [] }
             },
             {
                 "caption": "Delete Remote Script",

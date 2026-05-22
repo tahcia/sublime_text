@@ -1,7 +1,7 @@
 [
     { "caption": "-", "id": "tahcia_separator" },
     {
-        "caption": "Tahcia Sync",
+        "caption": "Tahcia Script Sync",
         "children": [
             {
                 "caption": "Use Tahcia Here (Init Config)",

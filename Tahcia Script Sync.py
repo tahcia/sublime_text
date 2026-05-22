@@ -5,9 +5,9 @@ import time
 import json
 import os
 try:
-    from .tahcia_client import TahciaClient
+    from .Tahcia_Client import TahciaClient
 except (ImportError, ValueError, SystemError):
-    from tahcia_client import TahciaClient
+    from Tahcia_Client import TahciaClient
 
 class ProgressBar:
     def __init__(self, message):

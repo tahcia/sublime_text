@@ -7,7 +7,8 @@ A lightweight Sublime Text package providing remote execution script management 
 
 ## About Tahcia
 
-Tahcia is an platform designed for agentic AI tools and browser automation workflows. It operates as a secure remote control bridge rather than a remote code execution engine, allowing external automation clients or AI agents to connect to local target environments and plugins via a dedicated communication layer without running unvetted, arbitrary scripts directly on your hardware. 
+Tahcia is personal construct excavation company. 
+It is sharing its internal agentic AI tools and browser automation workflows, called "Tahcia Operator". It operates as a secure remote control bridge rather than a remote code execution engine, allowing external automation clients or AI agents to connect to local target environments and plugins via a dedicated communication layer without running unvetted, arbitrary scripts directly on your hardware. 
 
 This Sublime Text plugin serves as a direct pipeline to your Tahcia developer instance, letting you manage the lifecycle of your automation scripts without context-switching out of your editor.
 
